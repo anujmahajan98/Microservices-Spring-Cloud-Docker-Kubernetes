@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Docker.iml" filepath="$PROJECT_DIR$/.idea/Docker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/routing/api-gateway.iml" filepath="$PROJECT_DIR$/routing/api-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api-gateway/api-gateway (1).iml" filepath="$PROJECT_DIR$/api-gateway/api-gateway (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/currency-conversion-microservice/currency-conversion-service.iml" filepath="$PROJECT_DIR$/currency-conversion-microservice/currency-conversion-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/currency-exchange-microservice/currency-exchange-service.iml" filepath="$PROJECT_DIR$/currency-exchange-microservice/currency-exchange-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-naming-server/eureka-naming-server.iml" filepath="$PROJECT_DIR$/eureka-naming-server/eureka-naming-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-communication-using-feign/feign.iml" filepath="$PROJECT_DIR$/microservice-communication-using-feign/feign.iml" />
+    </modules>
+  </component>
+</project>
